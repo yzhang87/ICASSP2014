@@ -1,0 +1,106 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: Template.aux
+The style file: IEEEbib.bst
+Database file #1: refs.bib
+You're missing a field name---line 5 of file refs.bib
+ :   
+ :   %organization = "IEEE",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 16 of file refs.bib
+ :   
+ :   %organization = "IEEE",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--string name "``the" is undefined
+--line 24 of file refs.bib
+I was expecting a `,' or a `}'---line 24 of file refs.bib
+ :   title =        ``the 
+ :                        Kaldi Speech Recognition Toolkit'' ,
+I'm skipping whatever remains of this entry
+Warning--string name "``a" is undefined
+--line 34 of file refs.bib
+I was expecting a `,' or a `}'---line 34 of file refs.bib
+ :   title =        ``a 
+ :                      Robust Algorithm for Pitch Tracking'' ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "MLLT"
+Warning--I didn't find a database entry for "fmllr"
+Warning--I didn't find a database entry for "RBM"
+Warning--I didn't find a database entry for "kaldiDNN"
+Warning--I didn't find a database entry for "CMU2013"
+Warning--I didn't find a database entry for "MSBN"
+Warning--empty year in Tara2013
+Name 1 in "Martin Karafiat, Frantisek Grezl, Mirko Hannemann, Karel Vesely, and Jan Honza Cernock y" has a comma at the end for entry Martin2013
+while executing---line 1012 of file IEEEbib.bst
+Too many commas in name 1 of "Martin Karafiat, Frantisek Grezl, Mirko Hannemann, Karel Vesely, and Jan Honza Cernock y" for entry Martin2013
+while executing---line 1012 of file IEEEbib.bst
+Warning--empty year in Martin2013
+Name 1 in "D Povey, A Ghoshal, G Boulianne, L Burget, O Glembek, N Goel, M Hannemann, P Motl´ıcek, Y Qian, P Schwarz, J Silovsky, G Stemmer, and K Vesely" has a comma at the end for entry Kaldi
+while executing---line 1012 of file IEEEbib.bst
+Too many commas in name 1 of "D Povey, A Ghoshal, G Boulianne, L Burget, O Glembek, N Goel, M Hannemann, P Motl´ıcek, Y Qian, P Schwarz, J Silovsky, G Stemmer, and K Vesely" for entry Kaldi
+while executing---line 1012 of file IEEEbib.bst
+Too many commas in name 1 of "D Povey, A Ghoshal, G Boulianne, L Burget, O Glembek, N Goel, M Hannemann, P Motl´ıcek, Y Qian, P Schwarz, J Silovsky, G Stemmer, and K Vesely" for entry Kaldi
+while executing---line 1012 of file IEEEbib.bst
+Too many commas in name 1 of "D Povey, A Ghoshal, G Boulianne, L Burget, O Glembek, N Goel, M Hannemann, P Motl´ıcek, Y Qian, P Schwarz, J Silovsky, G Stemmer, and K Vesely" for entry Kaldi
+while executing---line 1012 of file IEEEbib.bst
+Too many commas in name 1 of "D Povey, A Ghoshal, G Boulianne, L Burget, O Glembek, N Goel, M Hannemann, P Motl´ıcek, Y Qian, P Schwarz, J Silovsky, G Stemmer, and K Vesely" for entry Kaldi
+while executing---line 1012 of file IEEEbib.bst
+Too many commas in name 1 of "D Povey, A Ghoshal, G Boulianne, L Burget, O Glembek, N Goel, M Hannemann, P Motl´ıcek, Y Qian, P Schwarz, J Silovsky, G Stemmer, and K Vesely" for entry Kaldi
+while executing---line 1012 of file IEEEbib.bst
+Too many commas in name 1 of "D Povey, A Ghoshal, G Boulianne, L Burget, O Glembek, N Goel, M Hannemann, P Motl´ıcek, Y Qian, P Schwarz, J Silovsky, G Stemmer, and K Vesely" for entry Kaldi
+while executing---line 1012 of file IEEEbib.bst
+Too many commas in name 1 of "D Povey, A Ghoshal, G Boulianne, L Burget, O Glembek, N Goel, M Hannemann, P Motl´ıcek, Y Qian, P Schwarz, J Silovsky, G Stemmer, and K Vesely" for entry Kaldi
+while executing---line 1012 of file IEEEbib.bst
+Too many commas in name 1 of "D Povey, A Ghoshal, G Boulianne, L Burget, O Glembek, N Goel, M Hannemann, P Motl´ıcek, Y Qian, P Schwarz, J Silovsky, G Stemmer, and K Vesely" for entry Kaldi
+while executing---line 1012 of file IEEEbib.bst
+Too many commas in name 1 of "D Povey, A Ghoshal, G Boulianne, L Burget, O Glembek, N Goel, M Hannemann, P Motl´ıcek, Y Qian, P Schwarz, J Silovsky, G Stemmer, and K Vesely" for entry Kaldi
+while executing---line 1012 of file IEEEbib.bst
+Warning--empty booktitle in Kaldi
+Warning--empty year in Kaldi
+Warning--empty title in F0
+Warning--empty chapter and pages in F0
+Warning--empty publisher in F0
+Warning--empty year in F0
+You've used 4 entries,
+            1838 wiz_defined-function locations,
+            482 strings with 4130 characters,
+and the built_in function-call counts, 739 in all, are:
+= -- 37
+> -- 37
+< -- 0
++ -- 14
+- -- 10
+* -- 53
+:= -- 112
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 46
+empty$ -- 96
+format.name$ -- 10
+if$ -- 161
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 5
+newline$ -- 21
+num.names$ -- 4
+pop$ -- 37
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 14
+stack$ -- 0
+substring$ -- 0
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 4
+width$ -- 5
+write$ -- 33
+(There were 16 error messages)

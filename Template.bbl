@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{Tara2013}
+Tara N.Sainath, Brian Kingsbury, Vikas Sindhwani, Ebru Arisoy, and Bhuvana
+  Ramabhadran,
+\newblock ``Low-rank matrix factorization for deep neural network training with
+  high-dimensional output targets,''
+\newblock in {\em Proc. ICASSP}.
+
+\bibitem{Martin2013}
+Mirko Hannemann Karel~Vesely Martin~Karafiat, Frantisek~Grezl and Jan
+  Honza~Cernock y,
+\newblock ``But babel system for spontaneous cantonese,''
+\newblock in {\em Proc. Interspeech}.
+
+\bibitem{Kaldi}
+G~Boulianne L Burget O Glembek N Goel M Hannemann P Motl´ıcek Y Qian P
+  Schwarz J Silovsky G~Stemmer D~Povey, A~Ghoshal and K~Vesely,
+\newblock ,''
+\newblock .
+
+\bibitem{F0}
+David Talkin.
+
+\end{thebibliography}
